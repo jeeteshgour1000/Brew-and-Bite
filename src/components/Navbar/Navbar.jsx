@@ -12,7 +12,7 @@ const Navbar = () => {
   return(
   <nav className="app__navbar">
     <div className="app__navbar-logo">
-      <img src={images.gericht}></img>
+      <img src={images.f}></img>
     </div>
     <ul className="app__navbar-links">
         <li className="p__opensans"><a href="#home">Home</a></li>
@@ -24,7 +24,7 @@ const Navbar = () => {
 
 
     <div className="app__navbar-login">
-        <a href="#login" className="p__opensans">Log In / Registration</a>
+        <a href="#login" className="p__opensans">Order</a>
         <div />
         <a href="/" className="p__opensans">Book Table</a>
     </div>

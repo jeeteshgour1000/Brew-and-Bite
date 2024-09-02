@@ -9,9 +9,7 @@ const Header = () => (
       <SubHeading title="Chase the new flavour" />
       <h1 className="app__header-h1">The Key To Fine Dining</h1>
       <p className="p__opensans" style={{ margin: "2rem 0" }}>
-        Sit tellus lobortis sed senectus vivamus molestie. Condimentum volutpat
-        morbi facilisis quam scelerisque sapien. Et, penatibus aliquam amet
-        tellus{" "}
+      Born from a love of great food, exceptional coffee, and a desire to streamline hospitality operations, Brew & Bites is more than just a Cafe – it's a revolution in the world of cafes and restaurants.{" "}
       </p>
       <button type="button" className="custom__button">
         Explore Menu
@@ -19,7 +17,7 @@ const Header = () => (
     </div>
 
     <div className="app__wrapper_img">
-      <img src={images.welcome} alt="header_img" />
+      <img src={images.o} alt="header_img" />
     </div>
   </div>
 );

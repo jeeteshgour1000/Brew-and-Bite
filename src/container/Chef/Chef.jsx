@@ -16,14 +16,12 @@ const Chef = () => (
         <div className="app__chef-content_quote">
           <img src={images.quote} alt="quote_image" />
           <p className="p__opensans">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit auctor sit .
+          Our beliefs are rooted in the culinary world, shaped by the passion and expertise of chefs who have contributed to our journey.
           </p>
         </div>
         <p className="p__opensans">
           {" "}
-          auctor sit iaculis in arcu. Vulputate nulla lobortis mauris eget sit.
-          Nulla scelerisque scelerisque congue ac consequat, aliquam molestie
-          lectus eu. Congue iaculis integer curabitur semper sit nunc.{" "}
+          Here's what we, as culinary enthusiasts and tech innovators, believe in:Here's what we, as culinary enthusiasts and tech innovators, believe in: The Art of Culinary Craft,Fresh Ingredients, Fresh Ideas,Respect for Culinary Traditions.{" "}
         </p>
       </div>
 

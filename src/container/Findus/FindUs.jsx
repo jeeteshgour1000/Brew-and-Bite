@@ -12,7 +12,7 @@ const FindUs = () => (
       </h1>
       <div className="app__wrapper-content">
         <p className="p__opensans">
-          Lane Ends Bungalow, Whatcroft Hall Lane, Rudheath, CW9 75G
+        F-83, Shivaji Place, Vishal Enclave, Tagore Garden, Delhi, New Delhi
         </p>
         <p
           className="p__cormorant"
@@ -33,7 +33,7 @@ const FindUs = () => (
     </div>
 
     <div className="app__wrapper_img">
-      <img src={images.findus} alt="finus_img" />
+      <img src={images.welcome} alt="finus_img" />
     </div>
   </div>
 );
