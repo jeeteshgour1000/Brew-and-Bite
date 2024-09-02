@@ -2,27 +2,27 @@ import images from './images';
 
 const wines = [
   {
-    title: 'Chapel Hill Shiraz',
+    title: 'Vanilla Bean Frappuccino',
     price: '$56',
     tags: 'AU | Bottle',
   },
   {
-    title: 'Catena Malbee',
+    title: 'Caramel Macchiato',
     price: '$59',
     tags: 'AU | Bottle',
   },
   {
-    title: 'La Vieillw Rose',
+    title: 'Chai Latte',
     price: '$44',
     tags: 'FR | 750 ml',
   },
   {
-    title: 'Rhino Pale Ale',
+    title: 'Coffee Latte',
     price: '$31',
     tags: 'CA | 750 ml',
   },
   {
-    title: 'Irish Guinness',
+    title: 'Pink Panther Frappuccino',
     price: '$26',
     tags: 'IE | 750 ml',
   },
@@ -30,29 +30,29 @@ const wines = [
 
 const cocktails = [
   {
-    title: 'Aperol Sprtiz',
+    title: 'Light Bites',
     price: '$20',
-    tags: 'Aperol | Villa Marchesi prosecco | soda | 30 ml',
+    tags: 'Bruschetta, grilled cheese  250 gm',
   },
   {
-    title: "Dark 'N' Stormy",
+    title: "Salads",
     price: '$16',
-    tags: 'Dark rum | Ginger beer | Slice of lime',
+    tags: 'Caprese salad or a Greek salad 150 gm',
   },
   {
-    title: 'Daiquiri',
+    title: 'Seafood',
     price: '$10',
-    tags: 'Rum | Citrus juice | Sugar',
+    tags: 'Grilled salmon or shrimp scampi 100 gm',
   },
   {
-    title: 'Old Fashioned',
+    title: 'Charcuterie Board',
     price: '$31',
-    tags: 'Bourbon | Brown sugar | Angostura Bitters',
+    tags: 'cured meats, cheeses, and olives and bitter-sweet notes of the Aperol Spritz. 100 gm',
   },
   {
-    title: 'Negroni',
+    title: 'Fruit-Based Desserts:',
     price: '$26',
-    tags: 'Gin | Sweet Vermouth | Campari | Orange garnish',
+    tags: 'Fruity treats like sorbet, gelato, or fruit tarts 100 gm',
   },
 ];
 
@@ -60,22 +60,22 @@ const awards = [
   {
     imgUrl: images.award02,
     title: 'Bib Gourmond',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    subtitle: 'Michelin star.',
   },
   {
     imgUrl: images.award01,
     title: 'Rising Star',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    subtitle: 'Michelin star.',
   },
   {
     imgUrl: images.award05,
     title: 'AA Hospitality',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    subtitle: 'Michelin star.',
   },
   {
     imgUrl: images.award03,
     title: 'Outstanding Chef',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    subtitle: 'Michelin star.',
   },
 ];
 
